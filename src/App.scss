@@ -208,6 +208,10 @@ h1 {
 
 /* Smaller Screens */
 @media only screen and (max-width: 600px) {
+    .quizBtn {
+        margin-left: 0%;
+    }
+
     .navbar {
         bottom: 0;
         width: 100vw;
@@ -228,6 +232,7 @@ h1 {
 
     main {
         margin: 0;
+        margin-bottom: 6%;
     }
 
     .container {
@@ -241,7 +246,7 @@ h1 {
     }
 
     .next-btn {
-        margin-left: 20%;
+        margin-left: 26%;
     }
 
     .coffee-img {
@@ -268,6 +273,15 @@ h1 {
         text-align: left;
     
     }
+    .coffee-img-big {
+        width: 274px;
+        height: 400px;
+    }
+
+    .container {
+        margin-left: -14%;
+    }
+
     
 }
 
