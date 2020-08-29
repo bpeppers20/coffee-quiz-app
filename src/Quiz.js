@@ -70,7 +70,7 @@ export default class Quiz extends Component {
         const { userAnswers } = this.state;
         const data = await (await fetch('https://coffee-recipe-api.herokuapp.com/drinks')).json();
         const newArr = [];
-        data.map(item => {
+        data.forEach(item => {
             var filters = userAnswers;
             if (item.qualities.includes(filters[0]) && item.ingredients.includes(filters[1])) { // Filter for qualities and ingredients
                 newArr.push(item);

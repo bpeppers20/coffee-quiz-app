@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.265022c5.chunk.css",
+    "main.js": "/static/js/main.c2842685.chunk.js",
+    "main.js.map": "/static/js/main.c2842685.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9d06762f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9d06762f.js.map",
+    "static/js/2.590a5da7.chunk.js": "/static/js/2.590a5da7.chunk.js",
+    "static/js/2.590a5da7.chunk.js.map": "/static/js/2.590a5da7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a9bec70fe28aafa0dbf0ecef225e4e15.js": "/precache-manifest.a9bec70fe28aafa0dbf0ecef225e4e15.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.265022c5.chunk.css.map": "/static/css/main.265022c5.chunk.css.map",
+    "static/js/2.590a5da7.chunk.js.LICENSE.txt": "/static/js/2.590a5da7.chunk.js.LICENSE.txt",
+    "static/media/Arrow.2d3eb8a9.svg": "/static/media/Arrow.2d3eb8a9.svg",
+    "static/media/Gear.6ea40326.svg": "/static/media/Gear.6ea40326.svg",
+    "static/media/Glass.0ec8d966.svg": "/static/media/Glass.0ec8d966.svg",
+    "static/media/Quiz.85c4b30d.svg": "/static/media/Quiz.85c4b30d.svg",
+    "static/media/App.css": "/static/media/coffee.6a516ff5.jpg",
+    "static/media/coffee1.jpg": "/static/media/coffee1.78e25cf8.jpg",
+    "static/media/coffee2.jpg": "/static/media/coffee2.6c9b4101.jpg",
+    "static/media/coffee4.jpg": "/static/media/coffee4.d56d835f.jpg",
+    "static/media/coffee6.jpg": "/static/media/coffee6.ca95a47a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d06762f.js",
+    "static/js/2.590a5da7.chunk.js",
+    "static/css/main.265022c5.chunk.css",
+    "static/js/main.c2842685.chunk.js"
+  ]
+}
